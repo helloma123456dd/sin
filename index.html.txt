@@ -1,0 +1,6 @@
+<html>
+<head>Hello world</head>
+<body>
+Just for test
+</body>
+</html>
